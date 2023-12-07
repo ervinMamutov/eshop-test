@@ -63,6 +63,19 @@ const products = [
     rating: 4.6,
     numReviews: 100,
   },
+  {
+    _id: '6',
+    name: 'alexa',
+    image: '../public/images/playstation.jpg',
+    description:
+      'Next-gen gaming console with powerful hardware for an immersive gaming experience.',
+    brand: 'Sony',
+    category: 'Gaming Consoles',
+    price: 340.99,
+    countInStock: 25,
+    rating: 4.6,
+    numReviews: 100,
+  },
 ];
 
 export default products;
